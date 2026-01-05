@@ -28,6 +28,11 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
   - Trigger incident response and notify on-call
   - Rollback to last known-good release if necessary
   - Triage root cause and capture action items
+  - Schedule post-incident retrospective using [Retrospective Guidelines](octoacme-retrospective-and-continuous-improvement.md)
+
+> 📖 For incident communication templates, see [OctoAcme Risk Management & Communication](octoacme-risks-and-communication.md)  
+> 📖 For execution workflows leading to release, see [OctoAcme Execution & Tracking](octoacme-execution-and-tracking.md)  
+> 📖 For post-release retrospectives, see [OctoAcme Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 
 ## Release Notes Template
 - Release name / number:
