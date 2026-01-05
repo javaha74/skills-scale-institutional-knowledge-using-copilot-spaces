@@ -128,6 +128,13 @@ Navigate to detailed process documentation for specific phases and topics:
 | [OctoAcme Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Guidelines for running retrospectives and capturing actionable learnings |
 | [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) | Detailed descriptions of project roles, responsibilities, and communication patterns |
 
+### Templates and Checklists
+
+| Template | Description |
+|----------|-------------|
+| [Action Item Follow-up Checklist](action-item-follow-up-checklist.md) | Comprehensive checklist for tracking and completing retrospective action items |
+| [Stakeholder Engagement Log](stakeholder-engagement-log.md) | Template for tracking all stakeholder interactions and maintaining communication history |
+
 ---
 
 ## 🚀 Getting Started
@@ -183,6 +190,8 @@ Throughout the project lifecycle, teams create and maintain these essential arti
 - **Risk Register**: Identified risks with impact, likelihood, and mitigation plans
 - **Retrospective Notes and Action Items**: Learnings and improvement commitments
 - **Release Notes**: Changes, migrations, and known issues for each release
+- **Stakeholder Engagement Log**: Record of all stakeholder interactions and communication (use [template](stakeholder-engagement-log.md))
+- **Action Item Tracking**: Follow-up on retrospective commitments (use [checklist](action-item-follow-up-checklist.md))
 
 ---
 
